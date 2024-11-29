@@ -4,3 +4,4 @@ orjson
 python-dotenv
 reflex
 s3fs
+temporalio
